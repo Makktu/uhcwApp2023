@@ -1,0 +1,323 @@
+[
+    {
+        "CSSD CLINICAL STERILISATION SERVICES DEPARTMENT": {
+            "MAIN OFFICE": [28893, 28979]
+        },
+        "DAVID POWELL": {
+            "OFFICE": [28397]
+        },
+        "DAY SURGERY": {
+            "DSU": [26868, 26861, 26826]
+        },
+        "DOMESTICS": {
+            "DISPATCH": [27834]
+        },
+        "ORANGE TEAM": {
+            "ED OFFICE": [24841]
+        },
+        "EQUIPMENT LIBRARY": {
+            "OFFICE": [25041]
+        },
+        "LINEN": {
+            "OFFICE": [27366]
+        },
+        "PERFORMANCE TEAM": {
+            "OFFICE": [28474]
+        },
+        "OUTPATIENTS MANAGER": {
+            "OFFICE": [26394]
+        },
+        "OUTPATIENTS CLINIC 1": {
+            "RECEPTION": [26355]
+        },
+        "OUTPATIENTS CLINIC 2": {
+            "RECEPTION": [26275]
+        },
+        "OUTPATIENTS CLINIC 3": {
+            "RECEPTION": [26341]
+        },
+        "OUTPATIENTS CLINIC 4": {
+            "RECEPTION": [26366]
+        },
+        "OUTPATIENTS CLINIC 5": {
+            "RECEPTION": [28213]
+        },
+        "OUTPATIENTS CLINIC 6": {
+            "RECEPTION": [26700]
+        },
+        "OUTPATIENTS CLINIC 7": {
+            "RECEPTION": [26400],
+            "RECEPTION OTHER": [26420]
+        },
+        "OUTPATIENTS CLINIC 8": {
+            "RECEPTION": [26444]
+        },
+        "OUTPATIENTS CLINIC 9": {
+            "RECEPTION": [26606]
+        },
+        "OUTPATIENTS CLINIC 10": {
+            "RECEPTION": [26461]
+        },
+        "OUTPATIENTS CLINIC 11": {
+            "RECEPTION": [26500],
+            "RECEPTION OTHER": [26465]
+        },
+        "VINCI": {
+            "OFFICE IN-HOURS": [28189],
+            "SHIFT TEAM": [28355]
+        },
+        "WARD 1": {
+            "AREA 1": [28218],
+            "AREA 2": [25735],
+            "AREA 3": [25739]
+        },
+        "PATHOLOGY": {
+            "RECEPTION": [25399]
+        },
+        "WARD 2": {
+            "AREA 1": [25742, 25743],
+            "MDU": [26033],
+            "MDU AREA 1": [26217, 26218, 26024]
+        },
+        "WARD 2 MDU": {
+            "MDU AREA 1": [26217, 26218, 26024]
+        },
+        "WARD 3": {
+            "AREA 1": [25837],
+            "AREA 2": [25575],
+            "AREA 3": [26038]
+        },
+        "WARD 10": {
+            "CARDIAC DAY UNIT": [25661, 25662],
+            "WARD CLERK": [25637],
+            "AREA 1": [25633],
+            "AREA 2": [25635, 25636]
+        },
+        "WARD 11": {
+            "AREA 1": [25805, 25806],
+            "STEPDOWN": [25807, 25808]
+        },
+        "CARDIOTHORACIC CRITICAL CARE": {
+            "AREA 1": [25793, 25794],
+            "HDU": [26213, 26214]
+        },
+        "CORONARY CARE": {
+            "AREA 1": [25650, 25651, 25656]
+        },
+        "SODA WARD": {
+            "AREA 1": [25639, 25640],
+            "HDU": [26213, 26214]
+        },
+        "EMERGENCY DEPARTMENT": {
+            "AREA 1": [25639, 25640],
+            "HDU": [26213, 26214]
+        },
+        "WARD 12": {
+            "AREA 2": [26991, 26953],
+            "AREA 3": [26969, 26996, 26997],
+            "AREA 4": [26264, 26265]
+        },
+        "GENERAL CRITICAL CARE": {
+            "AREA 1": [26825],
+            "AREA 2": [26823],
+            "AREA 3": [26824]
+        },
+        "PAEDS EMERGENCY DEPARTMENT": {
+            "RECEPTION": [27215]
+        },
+        "PAEDS OUTPATIENTS": {
+            "AREA 1": [26929, 26930],
+            "STAFF BASE": [26932, 26934]
+        },
+        "WARD 14": {
+            "AREA 1": [27432],
+            "AREA 2": [27433],
+            "AREA 3": [27434]
+        },
+        "WARD 15": {
+            "AREA 1": [26595],
+            "AREA 2": [28223],
+            "HDU": [27021]
+        },
+        "WARD 16": {
+            "RECEPTION": [27224],
+            "AREA 2": [28224],
+            "AREA 3": [26589],
+            "OFFICE": [27225]
+        },
+        "LABOUR WARD": {
+            "RECEPTION": [27368],
+            "AREA 2": [27339],
+            "TRIAGE": [27333],
+            "SCBU": [26673, 26674],
+            "SCBU AREA 2": [26671, 26672],
+            "SCBU ITU": [26668],
+            "SCBU HDU": [26670, 26672]
+        },
+        "SPECIAL CARE BABY UNIT": {
+            "RECEPTION": [26673, 26674],
+            "AREA 2": [26671, 26672],
+            "ITU": [26668],
+            "HDU": [26670, 26672]
+        },
+        "NEONATAL": {
+            "AREA 1": [27339, 26668],
+            "AREA 2": [26667]
+        },
+        "MATERNITY RECEPTION": {
+            "RECEPTION": [27421, 27422]
+        },
+        "WARD 20": {
+            "AREA 1": [25561],
+            "AREA 2": [25559],
+            "AREA 3": [25557],
+            "WARD 20A": [25563, 25772]
+        },
+        "WARD 20A": {
+            "AREA 4": [25563],
+            "AREA 5": [25772]
+        },
+        "WARD 21": {
+            "AREA 1": [25637],
+            "AREA 2": [25774],
+            "AREA 3": [25561],
+            "CARDIAC ASSESSMENT UNIT": [25765]
+        },
+        "WARD 22": {
+            "VASCULAR": [25756, 25755],
+            "SHORT STAY": [25758, 25759],
+            "SAW": [25757],
+            "SAU AREA 1": [28231],
+            "SAU AREA 2": [26185, 26186],
+            "AREA 4": [26591],
+            "SISTER": [25754]
+        },
+        "WARD 23": {
+            "GYNAE": [26587, 26588],
+            "💥 GYNAE EMERGENCY": [27000],
+            "HEAD & NECK": [27007]
+        },
+        "WARD 24": {
+            "ANTE-NATAL UNIT": [26577, 26574],
+            "OFFICE": [26580]
+        },
+        "WARD 25": {
+            "POST-NATAL UNIT": [27315, 27312, 26579],
+            "TRANSITIONAL CARE": [27316],
+            "💥 W25 EMERGENCY": [28228]
+        },
+        "WARD 30": {
+            "AREA 1": [27680],
+            "AREA 2": [27678],
+            "AREA 3": [27675]
+        },
+        "WARD 31": {
+            "AREA 1": [27844],
+            "AREA 3": [27837],
+            "AREA 4": [27845],
+            "WARD 31A": [27681, 27842]
+        },
+        "WARD 32": {
+            "GASTRO (UNTIL 18.30)": [27789],
+            "AREA 1": [28236],
+            "AREA 2": [27830]
+        },
+        "WARD 33": {
+            "SURGERY": [25380, 25360],
+            "AREA 2": [25378, 25379],
+            "AREA 3": [25370, 25371],
+            "SHORT STAY": [25374],
+            "ECU": [25381, 25382]
+        },
+        "WARD 34": {
+            "HAEMATOLOGY": [25390],
+            "HAEMATOLOGY DAY UNIT": [25491],
+            "HAEMATOLOGY CLINIC": [28242],
+            "AREA 2": [25386],
+            "AREA 4": [26114]
+        },
+        "WARD 35": {
+            "AREA 1": [25525],
+            "AREA 2": [25528],
+            "AREA 3": [25531],
+            "OFFICE": [25530]
+        },
+        "WARD 40": {
+            "AREA 1": [28328],
+            "AREA 2": [28326],
+            "AREA 3": [28324],
+            "AREA 4": [28329]
+        },
+        "WARD 41": {
+            "AREA 1": [27817],
+            "AREA 2": [27816],
+            "THERAPY": [27809],
+            "ASSESSMENT": [27818]
+        },
+        "WARD 42": {
+            "AREA 1": [27798],
+            "AREA 2": [27796],
+            "AREA 4": [27802, 27803],
+            "SATELLITE": [27250, 24696],
+            "OFFICE": 27804
+        },
+        "WARD 43": {
+            "NEURO AREA 1": [25330, 24938],
+            "AREA 3": [25230],
+            "NECU STEPDOWN": [25328, 25329],
+            "AREA 4": [25335],
+            "ACUTE STROKE DAY UNIT": [25233]
+        },
+        "WARD 50": {
+            "BLUE": [28256, 28257],
+            "RED": [28258, 28259],
+            "AREA 3": [28324],
+            "AREA 4": [28329],
+            "OFFICE": [28262]
+        },
+        "WARD 52": {
+            "AREA 1": [27738],
+            "AREA 2 NOF": [27736],
+            "AREA 4": [25305],
+            "ORTHO": [25049],
+            "PHYSIO GYM": [25046]
+        },
+        "WARD 53": {
+            "AREA 1": [25311],
+            "AREA 2": [25309],
+            "ECU/TRAUMA": [25300],
+            "AREA 4": [25313]
+        },
+        "RENAL DIALYSIS": {
+            "RENAL": [27777, 27792],
+            "DAY UNIT": [27703]
+        },
+        "MAIN RECEPTION": { "THE MALL": [28215, 28216] },
+        "SECURITY": { "THE MALL": [26048] },
+        "SWITCHBOARD": { "FM BUILDING": [24000, "0"] },
+        "HELPDESK": { "FM BUILDING": [25555] },
+        "PORTERS": {
+            "PORTER MANAGER": [27413],
+            "PORTER DISPATCH": [25035]
+        },
+        "KITCHEN": {
+            "AG1 FM VILLAGE": [24981],
+            "AG5 THE MALL": [25828]
+        },
+        "WOMEN AND CHILDREN'S RECEPTION": {
+            "MATERNITY RECEPTION": [27421, 27422]
+        },
+        "FLUOROSCOPY": {
+            "MAIN": [27115]
+        },
+        "X-RAY": {
+            "GROUND FLOOR": [28209, 27121],
+            "ED": [26941],
+            "FLUOROSCOPY": [27115],
+            "CT GRD FLOOR": [26952]
+        },
+        "CONTROL ROOM": {
+            "CONTROL ROOM": [24948]
+        }
+    }
+]
